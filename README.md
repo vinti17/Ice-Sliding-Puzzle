@@ -9,7 +9,7 @@ own GoogleTest suite:
 - **`solver/`** — an automatic solver that finds the shortest rescue path using
   breadth-first and depth-first search.
 
-Both were written for the Imperative Programming course (Radboud University, year 2).
+Both were written for the Imperative Programming course (Radboud University, year 1).
 
 ## The puzzle
 
