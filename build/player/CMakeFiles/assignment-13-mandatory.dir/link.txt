@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/assignment-13-mandatory.dir/main.cpp.o" -o main 

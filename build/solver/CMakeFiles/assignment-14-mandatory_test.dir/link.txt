@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/assignment-14-mandatory_test.dir/main_test.cpp.o" -o main_test  ../lib/libgtest_main.a ../lib/libgtest.a 

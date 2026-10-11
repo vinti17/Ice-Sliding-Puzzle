@@ -1,0 +1,5 @@
+if(EXISTS "/home/vinti/Desktop/RU Courses/Fourth Year/Ip/Ice-Sliding-Puzzle/build/player/assignment-13-mandatory_test[1]_tests.cmake")
+  include("/home/vinti/Desktop/RU Courses/Fourth Year/Ip/Ice-Sliding-Puzzle/build/player/assignment-13-mandatory_test[1]_tests.cmake")
+else()
+  add_test(assignment-13-mandatory_test_NOT_BUILT assignment-13-mandatory_test_NOT_BUILT)
+endif()
